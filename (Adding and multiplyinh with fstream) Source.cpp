@@ -23,3 +23,6 @@ int main() {
 	return 0;
 
 }
+//In the 'input' file, the first line is how many numbers the program will use, which is the added sum and the
+//multiplied sum. The other two lines/ the numbers following that line is the numbers that the program will be
+//using. No spaces, just one number at the start of each line
